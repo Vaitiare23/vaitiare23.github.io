@@ -2,10 +2,8 @@
 	font-size:15px; letter-spacing:5px; line-height:12px;
 }
 
-.opciones h4 .colorTwo {color:#fb5607;
- margin-top: 0;
-         margin-left: 6%;
-         padding-top:0}
+.opciones h5 .colorTwo {color:#fb5607;
+font-family:'Berkshire Swash',}
 .opciones h4 .colorOne {color:#ff006e;}
 
 .opciones p {
