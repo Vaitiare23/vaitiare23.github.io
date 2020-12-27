@@ -3,7 +3,8 @@
 }
 
 .opciones h5 .colorTwo {color:#fb5607;
-font-family:'Berkshire Swash',}
+font-family:'Berkshire Swash';
+position: 'absolute'}
 .opciones h4 .colorOne {color:#ff006e;}
 
 .opciones p {
